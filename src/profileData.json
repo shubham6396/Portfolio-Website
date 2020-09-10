@@ -1,0 +1,87 @@
+{
+	"landing": {
+		"firstName": "Shubham",
+		"lastName": " Gandhi",
+		"phoneNumber": "(980)3192555",
+		"bio": "I am from Charlotte, North Carolina and pursuing my master’s degree at University of North Carolina at Charlotte in computer science with a GPA of 4.0. I am currently an intern at BatteryXchange company located in Charlotte as Data Analyst and Development Intern. I have worked in Java and C# during my last internship as a software intern at Techlead Software Engineering Private Ltd. I learned two important key things: the impact of agile environment to tackle new problems and how important customer-oriented service is for business. I learned valuable skills in providing reliable, scalable platforms, Innovative with UI/UX, as well as teamwork. Having a degree in Computer science I feel the need to expand my skill set and gain more knowledge and experience and that’s why I am actively looking for a job in software engineering field.",
+    
+    		"email": "gandhi.shubham61@gmail.com",
+    		"linkedin": "https://www.linkedin.com/in/shubhamgandhi1996/",
+		"github": "https://github.com/shubham6396"
+	},
+	"experience": [
+		{
+				"position": "Data Analyst and Development Intern",
+				"organization": "BatteryXChange",
+				"aboutWork": "Formulated plans for customer acquisition, attracting and retaining users with leadership.Achieved 45% increase in customer attraction, a 20% increase from previous period.",
+				"fromDate": "July 2020",
+				"toDate": "September 2020"
+		},
+		{
+			"position": "Software Intern",
+			"organization": "Techlead Software Engineer Pvt Ltd.",
+			"aboutWork": "Established a web application using Angular framework for User Interface and Django framework for web browsable API.Arranged VM instance on GCP and hosted the application.Developed an Image Processing and Analysis system in C# using Visual Studio 2017",
+			"fromDate": "October 2019",
+			"toDate": "May 2020"
+		}
+		
+	],
+	"education": [{
+			"university": "University of North Carolina at Charlotte",
+			"degree": "Master of Science",
+			"track":"Computer Science",
+			"gpa": "GPA:4.0",
+			"coursework":"Courses:Software System and Design Implementation, Machine Learning, Computer Vision",
+			"fromDate": "August 2019",
+			"toDate": "May 2021"
+		},
+		{
+			"university": "University of Pune",
+			"degree": "Bachelor of Engineering",
+			"track":"Computer Science",
+			"gpa": "GPA:3.6",
+			"coursework":"Courses:Algorithm and Data Structure, Design and Analysis of Algorithm, Software Engineering",
+			"fromDate": "August 2014",
+			"toDate": "May 2018"
+		}
+		
+	],
+	"skills": [{
+			"name": "Orange"
+		},
+		{
+			"name": "Weka (Waikato Environment for Knowledge Analysis)"
+		},{
+			"name": "Pandas"
+		},
+		{
+			"name": "NumPy"
+		},
+		{
+			"name": "TensorFlow"
+		},
+		{
+			"name": "LISP Miner"
+		},
+		{
+			"name": "GCP"
+		},
+		{
+			"name": "AWS"
+		}
+		
+	],
+	"interests": {
+		"paragraphOne": "Apart from coding, I enjoy most of my time being outdoors. I’ve played sports since high school, so I play soccer, badminton to stay in shape and meet new people in the area. I love traveling, and I try to take a trip every season. Traveling allows me to adapt to new situations and use my organization and planning skills to ensure I have the most fun I can. I try to anticipate possible delays and other interruptions in my travel and always have a list of important contacts.",
+		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am a dedicated sports follower, and I spend a large amount of my free time exploring the latest technology advancements of sports analytics."
+	},
+	"awards": [{
+			"awardDetail": "Your first award"
+		},
+		{
+			"awardDetail": "Your second award"
+		}
+    		
+	]
+}
+
